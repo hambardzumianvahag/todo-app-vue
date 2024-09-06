@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+# Todo-list-vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a Vue.js project bootstrapped with Vite and styled using Tailwind CSS.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# Features
+
+Vue 3 - A modern JavaScript framework for building user interfaces.
+Vite - Fast, modern, and lightweight development environment.
+Tailwind CSS - A utility-first CSS framework for rapidly building custom designs.
+
+# Installation
+
+git clone https://github.com/hambardzumianvahag/todo-app-vue.git
+
+cd todo-app-vue
+
+npm i
+
+npm run dev
+
+## build
+
+npm run build
